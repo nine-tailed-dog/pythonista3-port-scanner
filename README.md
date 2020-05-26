@@ -1,6 +1,6 @@
 # PyScanner
 
-I built a port scanner from scratch using python and a little socket programming to scan for 65,536 ports. It was originally built on mobile (Pythonista3) and is built using Python3. This won't function running it with Python2 (though it can be ported over with some simple changes if needed).
+I built a port scanner from scratch using python3 and a little socket programming to scan for 65,536 ports. It was originally built on mobile (iOS Pythonista3). This won't function running it with Python2 (though it can be ported over with some simple changes if needed).
 
 Also, this tool is currently single-threaded, but I'm going to try to be updating it since I'm porting it over from mobile so that it can handle these portscans at a higher speed, perhaps with a threads setting prior to the scan initialization, similar to how nmap uses the -T flag for determining threads.
 
