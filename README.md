@@ -1,6 +1,6 @@
 # PyScanner
 
-I built a port scanner from scratch using python and a little socket programming to scan for 65,536 ports. It was originally built on mobile (Pythonista3).
+I built a port scanner from scratch using python and a little socket programming to scan for 65,536 ports. It was originally built on mobile (Pythonista3) and is built using Python3. This won't function running it with Python2 (though it can be ported over with some simple changes if needed).
 
 ## Usage
 
