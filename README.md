@@ -32,4 +32,5 @@ Please wait while scanning target 45.33.32.156
 port 22 is open
 ```
 
+That's all for now,
 Enjoy!
