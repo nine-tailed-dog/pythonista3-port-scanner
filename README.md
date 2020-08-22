@@ -6,13 +6,11 @@ Also, this tool is currently single-threaded, but I'm going to try to be updatin
 
 ## Usage
 
-A simple method for running PyScanner is to use the command
+This scanner is built purely for use with iOS' Pythonista3 Python IDE. Trying to run this on a desktop environment will require doing some porting but isn't too difficult so I may get around to it. In the meantime, the usage requires Pythonista3 to be installed and for this script to be run from within Pythonista3 using Python3.
 
-```
-python3 pyscanner.py
-```
+**Note:** By default Pythonista3 will attempt to run the script using Python2 so make sure you press and hold the play button and select Python3 when starting the port scanner up.
 
-which will prompt the scanner to request a hostname:
+following the above instructions  will prompt the scanner to request a hostname:
 
 ```
 Please enter a target hostname to scan
